@@ -73,7 +73,7 @@ public abstract class  Hero{
 		}
 		h2.attack();
 		h1.attack();
-//System.out.println(h1.equals(h2));
+		System.out.println("hello i did some modification here");
 	}
 }
 
